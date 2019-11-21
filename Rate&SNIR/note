@@ -1,0 +1,2 @@
+Simulation code for measuring the SNIR coverage and Shannon capacity in Hetnet with present of channel estimation error.
+This code also evaluate  the impact of array pattern and beamforming in improving the interference cancellation in Base station
